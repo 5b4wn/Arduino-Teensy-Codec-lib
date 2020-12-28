@@ -1,6 +1,10 @@
 Arduino-Teensy-Codec-lib
 ======================
 
+Aim to add Opus Encoder
+
+
+
 Audiolibrary plugin, plays up to 320 kbps MP3, MP4(AAC), M4A(AAC), AAC-Raw or FLAC in software without external hardware - 
 with only 48MHz.
 
